@@ -1,0 +1,9 @@
+{
+    "name": "MK-H-23",
+    "v": "2.0.0",
+    "vcode": 3,
+    "expiry": "2024-01-01T00:00:00.000z",
+    "fn" :  "MAKAUT Holidays",
+    "description" : "MAKAUT all holidays of 2023",
+    "image" : "https://dataAbinash.github.io/routine/images/holidays.jpg"
+}

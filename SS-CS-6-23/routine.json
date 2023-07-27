@@ -1,0 +1,32 @@
+[
+    {
+      "name" : "Information Security",
+        "description" : "Information Security",
+        "emoji" : "🔐",
+        "type" : "weekly",
+        "time" : {
+            "1" : ["19:00","21:00"]
+        },
+        "sub" : "SS-CS-6-23"  
+    },
+    {
+        "name": "Artificial Intelligence",
+        "description": "Artificial Intelligence",
+        "emoji": "🤖",
+        "type": "weekly",
+        "time": {
+            "3": ["19:00","21:00"]
+        },
+        "sub": "SS-CS-6-23"
+    },
+    {
+        "name" : "Digital Image Processing",
+        "description" : "Digital Image Processing",
+        "emoji" : "📈",
+        "type" : "weekly",
+        "time" : {
+            "5" : ["19:00","21:00"]
+        },
+        "sub" : "SS-CS-6-23"
+    }
+]

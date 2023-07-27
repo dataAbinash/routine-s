@@ -1,0 +1,252 @@
+[
+   {
+      "name" : "Rathayatra",
+      "description" : "",
+      "emoji" : "🛕",
+      "type" : "holiday",
+      "time" : ["2023-06-20"],
+      "sub" : "MK-H-23"
+      
+   },
+
+   {
+      "name" : "Id-Ui-Zoha",
+      "description" : "Bakrid",
+      "emoji" : "🕌",
+      "type" : "holiday",
+      "time" : ["2023-06-29"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Birthday of Poet Bhanu Bhakat",
+      "description" :"For Darjeeling and Kalimpong district only",
+      "emoji" : "📜",
+      "type" : "holiday",
+      "time" : ["2023-07-13"],
+      "sub" : "MK-H-23"
+   },
+   {
+      "name" : "MUharram",
+      "description" : "",
+      "emoji" : "🕋",
+      "type" : "holiday",
+      "time" : ["2023-07-29"],
+      "sub" : "MK-H-23"
+   },
+
+
+   {
+      "name" : "Independence Day",
+      "description" : "",
+      "emoji" : "🇮🇳",
+      "type" : "holiday",
+      "time" : ["2023-08-15"],
+      "sub" : "MK-H-23"
+   },
+  
+   {
+      "name" : "Rakhi Bandhan",
+      "description" : "",
+      "emoji" : "💮",
+      "type" : "holiday",
+      "time" : ["2023-08-30"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Janmastami",
+      "description" : "",
+      "emoji" : "👶🏻",
+      "type" : "holiday",
+      "time" : ["2023-09-06"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Fateha-Dwaz-Daham",
+      "description" : "",
+      "emoji" : "🕌",
+      "type" : "holiday",
+      "time" : ["2023-09-28"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Birthday of Gandhiji",
+      "description" : "",
+      "emoji" : "👓",
+      "type" : "holiday",
+      "time" : ["2023-10-02"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Mahalaya",
+      "description" : "",
+      "emoji" : "🌄",
+      "type" : "holiday",
+      "time" : ["2023-10-14"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Chaturthi",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-18"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Panchami",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-19"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Shashthi",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-20"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Saptami",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-21"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Astami",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-22"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Nabami",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-23"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Maha Dasami",
+      "description" : "Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-24"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Durga Puja",
+      "description" : "Additional day of Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-25"],
+      "sub" : "MK-H-23"
+   },
+   {
+      "name" : "Durga Puja",
+      "description" : "Additional day of Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-26"],
+      "sub" : "MK-H-23"
+   },
+   {
+      "name" : "Durga Puja",
+      "description" : "Additional day of Durga Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-10-27"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Lakshmi Puja",
+      "description" : "",
+      "emoji" : "🌾",
+      "type" : "holiday",
+      "time" : ["2023-10-28"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Kali Puja",
+      "description" : "Additional day of Kali Puja",
+      "emoji" : "🎇",
+      "type" : "holiday",
+      "time" : ["2023-11-13"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Kali Puja",
+      "description" : "Additional day of Kali Puja",
+      "emoji" : "🪔",
+      "type" : "holiday",
+      "time" : ["2023-11-14"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Bhratridwitiya and Birthday of Birsa Munda",
+      "description" : "",
+      "emoji" : "🎁",
+      "type" : "holiday",
+      "time" : ["2023-11-15"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Day after Bhratridwitiya",
+      "description" : "",
+      "emoji" : "🌺",
+      "type" : "holiday",
+      "time" : ["2023-11-16"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Chhat Puja",
+      "description" : "Additional day of Chhat Puja",
+      "emoji" : "🌅",
+      "type" : "holiday",
+      "time" : ["2023-11-20"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Birthday of Guru Nanak",
+      "description" : "",
+      "emoji" : "🕌",
+      "type" : "holiday",
+      "time" : ["2023-11-27"],
+      "sub" : "MK-H-23"
+   },
+
+   {
+      "name" : "Chirstmas Day",
+      "description" : "",
+      "emoji" : "🎅",
+      "type" : "holiday",
+      "time" : ["2023-12-25"],
+      "sub" : "MK-H-23"
+   }
+]
