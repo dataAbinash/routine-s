@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Artificial Intelligence",
+        "description": "Antara ma'am",
+        "type": "weekly",
+        "emoji": "🤖",
+        "time": {
+            "1":["10:00","11:00"],
+            "3":["10:00","11:00"],
+            "6":["10:00","11:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Artificial Intelligence",
+        "description": "Antara ma'am",
+        "type": "weekly",
+        "emoji": "🤖",
+        "time": {
+            "1":["12:00","13:00"],
+            "6":["11:00","12:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Cryptographic Application",
+        "description": "Tapas Sir / Sucheta ma'am",
+        "type": "weekly",
+        "emoji":"🪪",
+        "time": {
+            "1": ["11:00","12:00"],
+            "2": ["13:00","14:00"],
+            "4": ["10:00","11:00"],
+            "5": ["10:00","11:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Digital Image Processing",
+        "description": "Sanjay Sir",
+        "type": "weekly",
+        "emoji": "📈",
+        "time": {
+            "4": ["10:00","11:00"],
+            "5": ["10:00","11:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "AI Lab",
+        "description": "Antara Kar / Sanjay Sen",
+        "type": "weekly",
+        "emoji": "🤖",
+        "time": {
+            "1": ["12:00","13:00"],
+            "3": ["11:00","12:00"],
+            "4": ["12:00","13:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "AI Lab",
+        "description": "Antara Kar / Sanjay Sen",
+        "type": "weekly",
+        "emoji": "🤖",
+        "time": {
+            "1": ["13:00","14:00"],
+            "4": ["13:00","14:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Cryptographic Lab",
+        "description": "Cryptographic Lab",
+        "type": "weekly",
+        "emoji":"🪪",
+        "time": {
+            "3": ["12:00","13:00"],
+            "4": ["11:00","12:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Cryptographic Lab",
+        "description": "Cryptographic Lab",
+        "type": "weekly",
+        "emoji":"🪪",
+        "time": {
+            "3": ["13:00","14:00"],
+            "5": ["13:00","14:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Digital Image Processing Lab",
+        "description": "Digital Image Processing Lab",
+        "type": "weekly",
+        "emoji": "📈",
+        "time": {
+            "1": ["13:00","14:00"],
+            "4": ["12:00","13:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    },
+    {
+        "name": "Project lab",
+        "description": "Tanushree ma'am",
+        "type": "weekly",
+        "emoji": "📚",
+        "time": {
+            "3": ["15:00","17:00"],
+            "5": ["16:00","17:00"]
+        },
+        "sub" : "BSC-CS-6-23"
+    }
+]

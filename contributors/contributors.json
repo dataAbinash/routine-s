@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "Abinash Karmakar",
+        "role" : "Developer and owner of this application",
+        "github" : "codeAbinash"
+    },
+    {
+        "name" : "Ananta Karmakar",
+        "role" : "Local Alpha tester and Some routine data Provider of this application",
+        "github" : "codeAntu"
+    },
+    {
+        "name" : "Tiyasha Patra",
+        "role" : "Local Alpha tester of this application",
+        "github" : "T-Patra18"
+    },
+    {
+        "name" : "Subhajit Karmakar",
+        "role" : "Some routine data Provider of this application",
+        "github" : "codeSubhajit0"
+    }
+]
